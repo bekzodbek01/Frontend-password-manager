@@ -8,7 +8,7 @@ Bu loyiha frontend qismi React yordamida yozilgan.
 
 ## Clone
 
-git clone https://github.com/yourusername/password-manager.git  
+git clone https://github.com/bekzodbek01/password-manager.git  
 cd password-manager/frontend
 
 ---
